@@ -1,15 +1,15 @@
-clima, temperatura, humedad, viento, jugar
-soleado,85,85,FALSO,no
-soleado,80,90,VERDADERO,no
-nublado,83,86,FALSO,si
-lluvioso,70,96,FALSO,sí
-lluvioso,68,80,FALSE,si
-lluvioso,65,70,VERDADERO,no
-nublado,64,65,VERDADERO,si
-soleado,72,95,FALSO,no
-soleado,69,70,FALSO,sí
-lluvioso,75,80,FALSO,sí
-soleado,75,70,VERDADERO,sí
-nublado,72,90,VERDADERO,si
-nublado,81,75,FALSO,sí
-lluvioso,71,91,VERDADERO,no
+id,clima, temperatura, humedad, viento, jugar
+1,soleado,85,85,FALSO,no
+2,soleado,80,90,VERDADERO,no
+3,nublado,83,86,FALSO,si
+4,lluvioso,70,96,FALSO,sí
+5,lluvioso,68,80,FALSE,si
+6,lluvioso,65,70,VERDADERO,no
+7,nublado,64,65,VERDADERO,si
+8,soleado,72,95,FALSO,no
+9,soleado,69,70,FALSO,sí
+10,lluvioso,75,80,FALSO,sí
+11,soleado,75,70,VERDADERO,sí
+12,nublado,72,90,VERDADERO,si
+13,nublado,81,75,FALSO,sí
+14,lluvioso,71,91,VERDADERO,no
