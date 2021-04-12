@@ -1,0 +1,17 @@
+Nombre,Temperatura corporal,Cobertura de la piel,Dar a luz,Acuático,Aéreo,Patas,Hibernar,Etiqueta
+humano, sangre caliente, pelo, sí, no, no, sí, no, mamífero
+pitón,sangre fría,escamas,no,no,no,sí,reptil
+salmón, sangre fría, escamas, no, sí, no, no, pez
+ballena,sangre caliente,pelo,si,si,no,no,no,mamífero
+rana, sangre fría, no, no, semi, no, sí, sí, anfibio
+dragón de komodo, sangre fría, escamas, no, no, no, sí, no, reptil
+murciélago, sangre caliente, pelo, sí, no, sí, sí, mamífero
+paloma,sangre caliente,plumas,no,no,si,si,no,ave
+gato, sangre caliente, pelo, sí, no, no, sí, no, mamífero
+tiburón leopardo, sangre fría, escamas, sí, sí, no, no, pez
+tortuga,sangre fría,escamas,no,semi,no,si,no,reptil
+penguln,sangre caliente,plumas,no,semi,no,si,no,ave
+porcuptne,sangre caliente,púas,sí,no,no,sí,sí,mamífero
+anguila,sangre fría,escamas,no,si,no,no,no,pez
+salamandra,sangre fría,ninguno,no,semi,no,si,si,anfibio
+
